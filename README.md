@@ -1,4 +1,4 @@
-# anti-ai-copy-purifier-skill
+# genpark-anti-ai-copy-purifier-skill
 
 > **GenPark AI Agent Skill** -- AI cliches and slop copy purifier.
 
