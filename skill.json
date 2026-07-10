@@ -1,8 +1,8 @@
 {
   "name": "anti-ai-copy-purifier-skill",
   "version": "1.0.0",
-  "description": "Analyze text copy for robotic AI cliches and rewrite the content into humanized authentic dialogue styles.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Analyze text copy for robotic AI cliches and rewrite the content into humanized authentic dialogue styles.",
+  "author": "genpark",
   "category": "marketing",
   "tags": [
     "copywriting",
